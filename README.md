@@ -1,6 +1,6 @@
 # trove
 
-## Trove aims to create:
+#### Trove aims to create:
 
 1. A multi-platform desktop search app
 2. Provide an UI that is close to the browser experience
