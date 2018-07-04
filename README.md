@@ -6,6 +6,8 @@
 2. Provide an UI that is close to the browser experience
 3. Will not not be limited to full-text search but try to incorporate advanced algorithms for searching opaque objects
 
-How Trove will look like:
+Software that Trove will leverage:
 
-![search-page-mockup search-page-mockup](trove-search-page.png)
+Multi-platform GUI : Electron – https://electronjs.org/
+Full-text indexing : We are experimenting with SphinxSearch (http://sphinxsearch.com/) and Apache Lucene (https://lucene.apache.org/core/)
+For text extraction: Apache Tika – https://tika.apache.org/
